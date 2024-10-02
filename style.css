@@ -48,10 +48,10 @@ body {
 
 
 .hero {
-    background-image: url('bg.avif');
+    background-image: url('business.jpg');
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: 120vh;
     color: #f4eaea;
     display: flex;
     justify-content: center;
@@ -70,7 +70,7 @@ body {
 }
 
 .hero .btn {
-    background-color: #a24f3c;
+    background-color: #c58d3e;
     color: #fcfafa;
     padding: 10px 20px;
     text-decoration: none;
@@ -82,7 +82,7 @@ body {
 }
 
 .hero .btn:hover {
-    background-color: #ab6a4c;
+    background-color: #060505;
 }
 
 
@@ -104,7 +104,7 @@ body {
 
 
 .services-section {
-    background-color: #de8c8c;
+    background-color: #c58d3e;
     padding: 50px 0;
     text-align: center;
 }
@@ -162,7 +162,7 @@ body {
     }
 
     .hero {
-        background-image: url('bg.avif');
+        background-image: url('business.jpg');
         background-size:contain;
         background-position: center;
         background-repeat: no-repeat;
@@ -184,7 +184,7 @@ body {
     }
 
     .hero {
-        background-image: url('bg.avif');
+        background-image: url('business.jpg');
         background-size:contain;
         background-position: center;
         background-repeat: no-repeat;
